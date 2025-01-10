@@ -20,9 +20,9 @@ This is a Python-based Roulette Simulator that allows users to simulate various 
    cd roulette
    ```
 
-2. Install the required dependencies:
+2. Install the required dependencies. Matplotlib v3.10.1 is the latest but confirmed fine with 3.10.0:
    ```sh
-   pip install -r requirements.txt
+   pip install matplotlib
    ```
 
 ## Usage
