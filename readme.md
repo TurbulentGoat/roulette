@@ -99,15 +99,9 @@ Amount Won in Longest Winning Streak: $170.00
 
 Contributions are welcome! Please open an issue to discuss your ideas or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by the various betting systems and the mathematical curiosity around them.
 - Thanks to the contributors and the open-source community for their valuable inputs.
 
 ---
-
-Feel free to modify this README to better suit your project's needs.
